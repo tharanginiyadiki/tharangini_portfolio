@@ -1,14 +1,18 @@
-Tharangini Yadiki
+<h1>Tharangini Yadiki</h1>
+<br>
 WEB DEVELOPER | UI/UX DESIGNER
+<br>
 📧 Email: tharanginiyadiki@gmail.com | 📞 Phone: 9490442162
-📍Location: Anantapuram, India _______________________________________
-
+<br>
+📍Location: Anantapuram, India 
+<hr>
 Professional Summary
-Passionate and results-driven Web Developer and UI/UX Designer with 4+ years of experience at Gateway Techno Solutions. 
+<br>
+<p>Passionate and results-driven Web Developer and UI/UX Designer with 4+ years of experience at Gateway Techno Solutions. 
 Skilled in building responsive websites and single-page applications with strong expertise in HTML5, CSS3, JavaScript, and Bootstrap. 
 Experienced in SEO optimization to ensure websites are visually appealing and perform well on search engines. 
 Certified in Digital Marketing with skills in SEO, SMM, Email Marketing, PPC, and Web Analytics. 
-Previously worked as a Web Developer at LT&T Systems Private Limited, enhancing my back-end skills.
+Previously worked as a Web Developer at LT&T Systems Private Limited, enhancing my back-end skills.</p>
 ________________________________________
 Work Experience
 Gateway Techno Solutions — Web Designer / SEO
