@@ -4,11 +4,11 @@
 <p>📍Location: Anantapuram, Andhra Pradesh India</p> 
 <hr>
 <h3>Professional Summary</h3>
-<p>Passionate and results-driven Web Developer and UI/UX Designer with 4+ years of experience at Gateway Techno Solutions. 
-Skilled in building responsive websites and single-page applications with strong expertise in HTML5, CSS3, JavaScript, and Bootstrap. 
-Experienced in SEO optimization to ensure websites are visually appealing and perform well on search engines. 
-Certified in Digital Marketing with skills in SEO, SMM, Email Marketing, PPC, and Web Analytics. 
-Previously worked as a Web Developer at LT&T Systems Private Limited, enhancing my back-end skills.</p>
+<p>Passionate and results-driven Web Developer and UI/UX Designer with 4+ years of experience at Gateway Techno Solutions.</p> 
+<p>Skilled in building responsive websites and single-page applications with strong expertise in HTML5, CSS3, JavaScript, and Bootstrap. </p>
+<p>Experienced in SEO optimization to ensure websites are visually appealing and perform well on search engines.</p> 
+<p>Certified in Digital Marketing with skills in SEO, SMM, Email Marketing, PPC, and Web Analytics. </p>
+<p>Previously worked as a Web Developer at LT&T Systems Private Limited, enhancing my back-end skills.</p>
 <hr>
 <h3>Work Experience</h3>
 <h4>Gateway Techno Solutions — Web Designer / SEO</h4>
