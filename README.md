@@ -3,7 +3,7 @@
 <p>📧 Email: tharanginiyadiki@gmail.com </p>
 <p>📍Location: Anantapuram, Andhra Pradesh India</p> 
 <hr>
-<h3></h3>Professional Summary</h3>
+<h3>Professional Summary</h3>
 <p>Passionate and results-driven Web Developer and UI/UX Designer with 4+ years of experience at Gateway Techno Solutions. 
 Skilled in building responsive websites and single-page applications with strong expertise in HTML5, CSS3, JavaScript, and Bootstrap. 
 Experienced in SEO optimization to ensure websites are visually appealing and perform well on search engines. 
